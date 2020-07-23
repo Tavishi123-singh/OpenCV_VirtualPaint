@@ -11,8 +11,8 @@ myColors = [[0,178,109,20,255,255],#Orange
             [101,255,88,157,255,255], #Blue
             [73,178,54,88,255,255]] #green
 myColorValues = [[5,114,247],  #BGR
-                 [247,5,9],
-                 [0,110,16]]
+                 [255,0,0],
+                 [0,255,0]]
 myPoints = [] # [x,y,colorID]
 
 def getContours(img):
