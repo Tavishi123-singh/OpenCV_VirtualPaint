@@ -1,4 +1,4 @@
-# OpenCVProject1
+# OpenCVProject2 : VirtualPaint
  This simple yet cool script uses OpenCV's color detection capabilities to track movement of colored markers and draws them on screen.
  Multiple markers can be used at once.
  
